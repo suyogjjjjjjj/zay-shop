@@ -1,0 +1,11 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands: []
+  artifacts:
+    baseDirectory: templatemo_559_zay_shop
+    files:
+      - '**/*'
+  cache:
+    paths: []
